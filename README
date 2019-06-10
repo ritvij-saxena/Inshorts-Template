@@ -1,5 +1,5 @@
 This an application showing an inshorts like android application. This project is more like a template rather than functioning application.
-In this application we are using pre stored news reports converted into json format.
+In this application we are using pre stored news reports which is in json format.
 
 This file can be found in assets folder , newsreport.json.
 
